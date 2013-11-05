@@ -1,0 +1,26 @@
+{
+  "family": "zjs",
+  "name": "zjs",
+  "version": "1.0.0",
+  "description": "���˽�jsģ��",
+  "homepage": "https://github.com/VVGG/myarale",
+  "author": "v",
+  "maintainers": [
+    "v"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/VVGG/myarale.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["zjs.js"],
+    "alias": {},
+    "devAlias": {},
+    "engines": {}
+  }
+}
